@@ -1,0 +1,10 @@
+{
+  "name": "STOCKPILOT - Smart Barcode Inventory & Warehouse System",
+  "description": "Smart barcode-based inventory and warehouse management system featuring automated nearest-bin slot allocation, error-proof barcode order picking, streamlined delivery partner portal with target warehouse GPS navigation, assigned pickup products preview, interactive inside warehouse wayfinding and floorplan bin mapping for effortless pickup, and auto-vacant space tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
